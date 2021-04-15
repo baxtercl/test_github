@@ -1,5 +1,5 @@
 
 
-function (a) {
+function vocal(a) {
 	return a;
 }
