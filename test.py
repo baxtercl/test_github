@@ -1,1 +1,5 @@
-texto 1
+
+
+function (a) {
+	return a;
+}
